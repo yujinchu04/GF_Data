@@ -7,3 +7,5 @@ https://ci.appveyor.com/project/Perfare/assetstudio/branch/master/artifacts
 깃헙 프로그램(다른거, 밑은 사용법)
 https://github.com/36base/girlsfrontline-resources-extract/releases
 https://gall.dcinside.com/mgallery/board/view/?id=micateam&no=351043
+참고자료
+https://gall.dcinside.com/mgallery/board/view/?id=micateam&no=727764
