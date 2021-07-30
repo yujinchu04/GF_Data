@@ -1,0 +1,9 @@
+전체적인 데이터추출
+https://gall.dcinside.com/mgallery/board/view/?id=micateam&no=1623284
+텍스트 추출
+https://gall.dcinside.com/mgallery/board/view?id=micateam&no=191998
+에셋스튜디오
+https://ci.appveyor.com/project/Perfare/assetstudio/branch/master/artifacts
+깃헙 프로그램(다른거, 밑은 사용법)
+https://github.com/36base/girlsfrontline-resources-extract/releases
+https://gall.dcinside.com/mgallery/board/view/?id=micateam&no=351043
